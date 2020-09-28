@@ -3,7 +3,7 @@ Use case 2:
  
 Schema
  
-Product ID
+Product ID, 
 Product Description
 Product Name
  
