@@ -19,11 +19,11 @@ Unit testing coverage
 Use public git to upload the code
 
 Technologies Leveraged: 
-	Spring Boot
-	Apache Kafka
-	MongoDB
-	Redis
-	Junit & Mockito
+	Spring Boot, 
+	Apache Kafka, 
+	MongoDB, 
+	Redis, 
+	Junit & Mockito.
 
 
 #RESTful Web Services
