@@ -1,8 +1,8 @@
 # Product-Usecase
 
 Use case 2:
- 
-Schema 
+ 
+Schema 
 	Product ID, 
 	Product Description, 
 	Product Name
@@ -10,11 +10,11 @@ Schema 
 Write a Rest API to do CURD operations and use NOSQL DBs to store the details
 
 Write a Rest API to publish the messages to Kafka
-                Message Format – Product ID, Prize
+	Message Format – Product ID, Prize
 		
 Write a Rest API to aggregate
-                Given the productid as an input – output should be Product iD, Product Name, Product Prize
- 
+	Given the productid as an input – output should be Product iD, Product Name, Product Prize
+ 
 Expectations:
 
 Use any language for Rest API
