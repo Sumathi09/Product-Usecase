@@ -3,9 +3,9 @@
 Use case 2:
  
 Schema 
-Product ID, 
-Product Description, 
-Product Name
+	Product ID, 
+	Product Description, 
+	Product Name
 
 Write a Rest API to do CURD operations and use NOSQL DBs to store the details
 
@@ -16,6 +16,7 @@ Write a Rest API to aggregate
                 Given the productid as an input – output should be Product iD, Product Name, Product Prize
  
 Expectations:
+
 Use any language for Rest API
 Unit testing coverage
 Use public git to upload the code
